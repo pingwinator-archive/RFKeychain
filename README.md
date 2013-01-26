@@ -10,7 +10,9 @@ Other libraries I found seemed unnecessarily complex and I wanted to get a bette
 
 ### CocoaPods
 
+```ruby
 pod 'RFKeychain', '~> 0.1'
+```
 
 ### Manual
 
