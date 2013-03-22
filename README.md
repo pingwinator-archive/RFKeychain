@@ -1,6 +1,6 @@
 # RFKeychain
 
-RFKeychain is an Objective-C keychain wrapper for iOS and Mac OS X. It's not as complete as [SSKeyChain](https://github.com/soffes/sskeychain) and is only tested on iOS 6 and Mac OS X 10.8.
+RFKeychain is an Objective-C keychain wrapper for iOS and Mac OS X. It is only tested on iOS 6 and Mac OS X 10.8.
 
 Why another xxKeychain?
 
